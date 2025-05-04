@@ -1,0 +1,24 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+
+.myfrom{
+    margin-top: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: antiquewhite;
+    padding: 50px;
+}
+
+#name{
+    display: block;
+    margin-top: 10px;
+    padding: auto;
+}
+
+label{
+    display: block;
+    margin-top: 10px;
+}
